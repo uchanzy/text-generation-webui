@@ -280,3 +280,4 @@ if __name__ == "__main__":
                 shared.gradio['interface'].close()
                 time.sleep(0.5)
                 create_interface()
+
